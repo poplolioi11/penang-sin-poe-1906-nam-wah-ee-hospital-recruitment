@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '檳城南華醫院招考與發榜（《檳城新報》，1906）（檳城，1906年8月8日、9月20日，《檳城新報》兩篇本埠新聞。新加坡國立大學圖書館。） / Bincheng
+  Nanhua yiyuan zhao kao yu fa bang [The Nam Wah Ee Hospital Recruitment Examination
+  and Results]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/penang-sin-poe-1906-nam-wah-ee-hospital-recruitment
+keywords:
+- 檳城新報
+- 南華醫院
+- 醫師招考
+- 醫師中選
+- 香港東華醫院
+- 廣仁善堂
+- Penang Sin Poe
+- Nam Wah Ee Hospital
+- Tung Wah Hospital
+- '1906'
+- 醫學史
+- medical recruitment
+- hospital history
+- Penang
+- National University of Singapore Libraries
+- TEI

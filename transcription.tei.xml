@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>檳城南華醫院招考與發榜（《檳城新報》，1906）</title>
+        <title type="alternate">Bincheng Nanhua yiyuan zhao kao yu fa bang</title>
+        <author>未署名（《檳城新報》本埠欄）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>檳城（原報刊行），新加坡（現藏數位底本）</settlement>
+            <repository>新加坡國立大學圖書館</repository>
+            <collection>Southeast Asian Chinese Newspapers Collection</collection>
+            <idno>Penang Sin Poe no. 3035 (1906-08-08), and no. 3070 (1906-09-20)</idno>
+            <altIdentifier>
+              <idno>NUSPSP19060808</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>《檳城新報》1906年8月8日〈南華醫院考試醫生〉和9月20日〈醫師中選〉記錄檳城南華醫院同一次醫師招考。首篇記有47人應試、抽選試題並稱將把試卷封送香港東華醫院；後篇則稱試卷送到廣仁善堂評閱，列出兩名錄用者。兩篇可供比對華人慈善醫院的醫師聘任、考試安排與跨埠評閱。</p>
+              <ref target="https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/Penang%20sin%20poe%201906_Aug.html">館方書目</ref>
+              <ref target="https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/Penang%20sin%20poe%201906_Aug.html">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>1906年8月8日（第3035號）、1906年9月20日（第3070號）。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>兩篇各對NUS館藏PDF第3幅。影像1六直欄；影像2先上橫欄最左兩直欄，再讀中橫欄最右三直欄。保留欄序、原標點與疑讀。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3" xml:id="f01">
+      <graphic url="https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3" />
+    </surface>
+    <surface n="2" corresp="https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3" xml:id="f02">
+      <graphic url="https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="binding">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f01-s-c01">
+              <seg type="diplomatic-text">南華醫院考試醫生。○本日總理協董駢車</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-s-c02">
+              <seg type="diplomatic-text">到院恭向醫祖先師案前投筊拈題與試者計四十</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-s-c03">
+              <seg type="diplomatic-text">七名題係問心經有熱水不剋火驚狂失志多言多</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f01-s-c04">
+              <seg type="diplomatic-text">笑或瘍疹煩熱失血請將病原脉症治法藥性詳明</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f01-s-c05">
+              <seg type="diplomatic-text">論試竣將卷包封遞寄香港東華醫院評定甲乙然</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f01-s-c06">
+              <seg type="diplomatic-text">異日如意珠未知握於誰手也</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：報紙本埠欄，首行報題止於小句點，隨空圈續正文，六欄由右向左。</ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="binding">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f02-s-c01">
+              <seg type="diplomatic-text">醫師中選○日前南華醫院諸董公同拈題</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-s-c02">
+              <seg type="diplomatic-text">考試醫生維時與試者計四十七名已將各卷彙齊</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-s-c03">
+              <seg type="diplomatic-text">包封遞到粵省廣仁善堂評閱茲已評定甲乙拔其</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-s-c04">
+              <seg type="diplomatic-text">尤者十名其前二名卽連鏡堂鄒伯謙均蒙南華醫</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-s-c05">
+              <seg type="diplomatic-text">院錄用至于各卷容後續錄</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：檳城新報第3070號本埠欄，跨同一版的兩橫欄，讀上排最左二直欄，換中排最右三直欄。末續錄後另起報文。</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

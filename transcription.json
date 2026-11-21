@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "title": "檳城南華醫院招考與發榜（《檳城新報》，1906）",
+    "catalogue_title": "南華醫院考試醫生；醫師中選",
+    "roman_title": "Bincheng Nanhua yiyuan zhao kao yu fa bang",
+    "author": "未署名（《檳城新報》本埠欄）",
+    "date": "1906年8月8日（第3035號）、1906年9月20日（第3070號）。",
+    "location": "檳城（原報刊行），新加坡（現藏數位底本）",
+    "repository": "新加坡國立大學圖書館",
+    "repository_en": "National University of Singapore Libraries",
+    "collection": "Southeast Asian Chinese Newspapers Collection",
+    "shelfmark": "Penang Sin Poe no. 3035 (1906-08-08), and no. 3070 (1906-09-20)",
+    "language": "lzh",
+    "catalogue": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/Penang%20sin%20poe%201906_Aug.html",
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "image_system": "catalogue",
+    "description": "《檳城新報》1906年8月8日〈南華醫院考試醫生〉和9月20日〈醫師中選〉記錄檳城南華醫院同一次醫師招考。首篇記有47人應試、抽選試題並稱將把試卷封送香港東華醫院；後篇則稱試卷送到廣仁善堂評閱，列出兩名錄用者。兩篇可供比對華人慈善醫院的醫師聘任、考試安排與跨埠評閱。",
+    "txt_reader_statement": "兩篇各自在本埠欄中有完整起訖。8月8日一篇六直欄依原右至左接讀；9月20日一篇自左頁上排末兩欄接同頁中排頭三欄。兩人在後篇得錄用，實際評卷者僅有報文說法。",
+    "tei_editorial_statement": "兩篇各對NUS館藏PDF第3幅。影像1六直欄；影像2先上橫欄最左兩直欄，再讀中橫欄最右三直欄。保留欄序、原標點與疑讀。",
+    "manifest_url": null,
+    "manifest_sha256": null,
+    "record_id": "NUSPSP19060808",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      1,
+      2
+    ],
+    "version": "0.1.0",
+    "dataset_title": "檳城南華醫院招考與發榜（《檳城新報》，1906）（檳城，1906年8月8日、9月20日，《檳城新報》兩篇本埠新聞。新加坡國立大學圖書館。） / Bincheng Nanhua yiyuan zhao kao yu fa bang [The Nam Wah Ee Hospital Recruitment Examination and Results]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "catalogue_page": 1,
+      "page_html_sha256": "ce5100e05ab7288e1908536a9f9545a36183fb3ad8b0a6ed3c60e18e2dd72dc6",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3",
+      "image_url": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3",
+      "label": "PDF frame 3, left page, 本埠",
+      "file": "01.png",
+      "sha256": "8bfc01ab55224ef0e2893c9daea15897db5af76491af08029740180745878566",
+      "bytes": 1285871,
+      "native_width": 4762,
+      "native_height": 3431,
+      "article_bbox": [
+        676,
+        1328,
+        995,
+        2201
+      ],
+      "inspection_crop": "01-article.png",
+      "inspection_crop_sha256": "1086beff999ebbbd4c746f483cadd1d1cbc53ed3fb967aa55fd5094126ddb80d",
+      "issue_date": "1906-08-08",
+      "issue_number": 3035,
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "南華醫院考試醫生。○本日總理協董駢車"
+            },
+            {
+              "text": "到院恭向醫祖先師案前投筊拈題與試者計四十"
+            },
+            {
+              "text": "七名題係問心經有熱水不剋火驚狂失志多言多"
+            },
+            {
+              "text": "笑或瘍疹煩熱失血請將病原脉症治法藥性詳明"
+            },
+            {
+              "text": "論試竣將卷包封遞寄香港東華醫院評定甲乙然"
+            },
+            {
+              "text": "異日如意珠未知握於誰手也"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：報紙本埠欄，首行報題止於小句點，隨空圈續正文，六欄由右向左。"
+    },
+    {
+      "image": 2,
+      "catalogue_page": 2,
+      "page_html_sha256": "eae75786e40e30812d5c4d7041f60f37a1021c9b9c70e5d30238a3ee6a03d6e9",
+      "issue_catalogue_url": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/Penang%20sin%20poe%201906_Sep.html",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3",
+      "image_url": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3",
+      "label": "1906-09-20, PDF frame 3, upper-left and middle-right of left page, 本埠",
+      "file": "02.png",
+      "sha256": "836cf5cb239a120c69d927f9da744694a2535789fc4d09f04b53928dea01bf06",
+      "bytes": 1213759,
+      "native_width": 4762,
+      "native_height": 3431,
+      "issue_date": "1906-09-20",
+      "issue_number": 3070,
+      "article_regions": [
+        [
+          441,
+          477,
+          586,
+          1342
+        ],
+        [
+          2268,
+          1368,
+          2463,
+          2249
+        ]
+      ],
+      "inspection_crops": [
+        {
+          "file": "02-top-extended.png",
+          "sha256": "d35956032dc5a65e9e68050b5d77263a8a36a19bb7089d798fdce1af71d9cfeb"
+        },
+        {
+          "file": "02-middle-extended.png",
+          "sha256": "d72229c7c13e2a8604aaadceb2caf1600a7811953e4399350f8999e285a81b3b"
+        },
+        {
+          "file": "02-middle-final.png",
+          "sha256": "4ca85d2bb815f5b743020b9f7c2996138e26be7894ba9cb0232a0e06653963cb"
+        }
+      ],
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "醫師中選○日前南華醫院諸董公同拈題"
+            },
+            {
+              "text": "考試醫生維時與試者計四十七名已將各卷彙齊"
+            },
+            {
+              "text": "包封遞到粵省廣仁善堂評閱茲已評定甲乙拔其"
+            },
+            {
+              "text": "尤者十名其前二名卽連鏡堂鄒伯謙均蒙南華醫"
+            },
+            {
+              "text": "院錄用至于各卷容後續錄"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：檳城新報第3070號本埠欄，跨同一版的兩橫欄，讀上排最左二直欄，換中排最右三直欄。末續錄後另起報文。"
+    }
+  ]
+}
