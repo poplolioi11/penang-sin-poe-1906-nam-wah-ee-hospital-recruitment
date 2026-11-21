@@ -20,14 +20,14 @@
     "manifest_url": null,
     "manifest_sha256": null,
     "record_id": "NUSPSP19060808",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       1,
       2
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "檳城南華醫院招考與發榜（《檳城新報》，1906）（檳城，1906年8月8日、9月20日，《檳城新報》兩篇本埠新聞。新加坡國立大學圖書館。） / Bincheng Nanhua yiyuan zhao kao yu fa bang [The Nam Wah Ee Hospital Recruitment Examination and Results]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -57,7 +57,7 @@
       "issue_date": "1906-08-08",
       "issue_number": 3035,
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",
@@ -84,8 +84,52 @@
           "extras": []
         }
       ],
-      "issues": [],
-      "observations": "單幅：報紙本埠欄，首行報題止於小句點，隨空圈續正文，六欄由右向左。"
+      "issues": [
+        {
+          "side": "single",
+          "column": 3,
+          "context": "心經有熱",
+          "candidates": [
+            "有"
+          ],
+          "note": "有上部為石印斑點，下半疑月；另一獨立讀稿同讀有。",
+          "source_bbox": [
+            867,
+            1597,
+            936,
+            1706
+          ]
+        },
+        {
+          "side": "single",
+          "column": 4,
+          "context": "或瘍疹",
+          "candidates": [
+            "瘍",
+            "痬"
+          ],
+          "note": "疒部磨墨，右下近昜，下方長斜筆與上一層日框可見但上劃不全。",
+          "source_bbox": [
+            808,
+            1394,
+            886,
+            1544
+          ]
+        }
+      ],
+      "observations": "《檳城新報》第3035號，西曆1906年8月8日／光緒丙午六月十九日，PDF第3幅左頁上區本埠欄。全篇六直欄；題、實點與空圈俱位於首直欄。",
+      "facsimile_regions": [
+        {
+          "id": "f01-article-1",
+          "type": "article-column-group",
+          "bbox": [
+            676,
+            1328,
+            995,
+            2201
+          ]
+        }
+      ]
     },
     {
       "image": 2,
@@ -131,7 +175,7 @@
         }
       ],
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",
@@ -155,8 +199,48 @@
           "extras": []
         }
       ],
-      "issues": [],
-      "observations": "單幅：檳城新報第3070號本埠欄，跨同一版的兩橫欄，讀上排最左二直欄，換中排最右三直欄。末續錄後另起報文。"
+      "issues": [
+        {
+          "side": "single",
+          "column": 3,
+          "context": "遞到",
+          "candidates": [
+            "遞",
+            "送",
+            "選"
+          ],
+          "note": "與8月8日遞寄對照，第二讀另候送／選，原筆可能尚有辨字餘地。",
+          "source_bbox": [
+            2394,
+            1455,
+            2459,
+            1522
+          ]
+        }
+      ],
+      "observations": "《檳城新報》第3070號，西曆1906年9月20日／光緒丙午八月初三日，PDF第3幅左頁。全篇五直欄；先上排左端二直欄，接中排最右三直欄，至續錄收束。",
+      "facsimile_regions": [
+        {
+          "id": "f02-article-1",
+          "type": "article-column-group",
+          "bbox": [
+            441,
+            477,
+            586,
+            1342
+          ]
+        },
+        {
+          "id": "f02-article-2",
+          "type": "article-column-group",
+          "bbox": [
+            2268,
+            1368,
+            2463,
+            2249
+          ]
+        }
+      ]
     }
   ]
 }

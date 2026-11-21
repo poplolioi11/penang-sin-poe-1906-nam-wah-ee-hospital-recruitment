@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -52,9 +52,12 @@
   <facsimile>
     <surface n="1" corresp="https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3" xml:id="f01">
       <graphic url="https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3" />
+      <zone type="article-column-group" ulx="676" uly="1328" lrx="995" lry="2201" xml:id="f01-article-1" />
     </surface>
     <surface n="2" corresp="https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3" xml:id="f02">
       <graphic url="https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3" />
+      <zone type="article-column-group" ulx="441" uly="477" lrx="586" lry="1342" xml:id="f02-article-1" />
+      <zone type="article-column-group" ulx="2268" uly="1368" lrx="2463" lry="2249" xml:id="f02-article-2" />
     </surface>
   </facsimile>
   <text>
@@ -83,7 +86,18 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">單幅：報紙本埠欄，首行報題止於小句點，隨空圈續正文，六欄由右向左。</ab>
+            <ab type="layout">《檳城新報》第3035號，西曆1906年8月8日／光緒丙午六月十九日，PDF第3幅左頁上區本埠欄。全篇六直欄；題、實點與空圈俱位於首直欄。</ab>
+            <ab type="transcription-issue" n="single:3">
+              <quote>心經有熱</quote>
+              <seg type="candidate">有</seg>
+              <note type="editorial">有上部為石印斑點，下半疑月；另一獨立讀稿同讀有。</note>
+            </ab>
+            <ab type="transcription-issue" n="single:4">
+              <quote>或瘍疹</quote>
+              <seg type="candidate">瘍</seg>
+              <seg type="candidate">痬</seg>
+              <note type="editorial">疒部磨墨，右下近昜，下方長斜筆與上一層日框可見但上劃不全。</note>
+            </ab>
           </div>
         </div>
         <pb n="2" facs="#f02" />
@@ -106,7 +120,14 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">單幅：檳城新報第3070號本埠欄，跨同一版的兩橫欄，讀上排最左二直欄，換中排最右三直欄。末續錄後另起報文。</ab>
+            <ab type="layout">《檳城新報》第3070號，西曆1906年9月20日／光緒丙午八月初三日，PDF第3幅左頁。全篇五直欄；先上排左端二直欄，接中排最右三直欄，至續錄收束。</ab>
+            <ab type="transcription-issue" n="single:3">
+              <quote>遞到</quote>
+              <seg type="candidate">遞</seg>
+              <seg type="candidate">送</seg>
+              <seg type="candidate">選</seg>
+              <note type="editorial">與8月8日遞寄對照，第二讀另候送／選，原筆可能尚有辨字餘地。</note>
+            </ab>
           </div>
         </div>
       </div>

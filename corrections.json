@@ -1,0 +1,140 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 0,
+  "changes": [],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3",
+      "status": "字形待核"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 4,
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3",
+      "status": "字形待核"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "source_image_sha256": "8bfc01ab55224ef0e2893c9daea15897db5af76491af08029740180745878566",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3",
+      "reading": "。○本日總理協董駢車",
+      "status": "依原圖留讀",
+      "reason": "題後小圓點在字中心略左，並與後方大空圈分開。總從糸，末圖正中為車的直筆，留駢車。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "source_image_sha256": "8bfc01ab55224ef0e2893c9daea15897db5af76491af08029740180745878566",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3",
+      "reading": "投筊拈題",
+      "status": "依原圖留讀",
+      "reason": "第二字竹下有交的兩交筆，與籤下韱區別。報文的宗教儀式用字照錄。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "source_image_sha256": "8bfc01ab55224ef0e2893c9daea15897db5af76491af08029740180745878566",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3",
+      "reading": "水不剋火",
+      "status": "依原圖留讀",
+      "reason": "剋左見克、右見刀側，不改整理引文的制。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 4,
+      "source_image_sha256": "8bfc01ab55224ef0e2893c9daea15897db5af76491af08029740180745878566",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3",
+      "reading": "病原脉症",
+      "status": "依原圖留讀",
+      "reason": "原字从月、下為永，照脉。"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 5,
+      "source_image_sha256": "8bfc01ab55224ef0e2893c9daea15897db5af76491af08029740180745878566",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_08_08.pdf#page=3",
+      "reading": "遞寄香港東華醫院評定甲乙",
+      "status": "依原圖留讀",
+      "reason": "同欄寄字及院名、末段說法皆清楚，遞上有虍狀。"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 2,
+      "source_image_sha256": "836cf5cb239a120c69d927f9da744694a2535789fc4d09f04b53928dea01bf06",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3",
+      "reading": "四十七名已將各卷彙齊",
+      "status": "依原圖留讀",
+      "reason": "大寫字不同欄，彙上有彑，前後數字均明。"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 3,
+      "source_image_sha256": "836cf5cb239a120c69d927f9da744694a2535789fc4d09f04b53928dea01bf06",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3",
+      "reading": "包封遞到粵省廣仁善堂",
+      "status": "依原圖留讀",
+      "reason": "另取較高的裁幅，首字包完整。遞的內部有虍/虎形；兩欄跳接保留實版位置。"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 3,
+      "source_image_sha256": "836cf5cb239a120c69d927f9da744694a2535789fc4d09f04b53928dea01bf06",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3",
+      "reading": "評閱茲已評定甲乙",
+      "status": "依原圖留讀",
+      "reason": "原報同欄兩次從言的評，照錄。"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 4,
+      "source_image_sha256": "836cf5cb239a120c69d927f9da744694a2535789fc4d09f04b53928dea01bf06",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3",
+      "reading": "尤者十名",
+      "status": "依原圖留讀",
+      "reason": "尤以一撇過字心，者在其下另占字位，非秀十。"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 4,
+      "source_image_sha256": "836cf5cb239a120c69d927f9da744694a2535789fc4d09f04b53928dea01bf06",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3",
+      "reading": "連鏡堂鄒伯謙",
+      "status": "依原圖留讀",
+      "reason": "兩姓名連續見於中段左起第2欄，鏡金旁，鄒有阝，謙言旁。"
+    },
+    {
+      "image": 2,
+      "side": "single",
+      "column": 5,
+      "source_image_sha256": "836cf5cb239a120c69d927f9da744694a2535789fc4d09f04b53928dea01bf06",
+      "canvas_id": "https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/1906/1906_09_20.pdf#page=3",
+      "reading": "院錄用至于各卷容後續錄",
+      "status": "依原圖留讀",
+      "reason": "最左一欄起始與上欄版分隔重合。上移局部裁幅可讀阝旁院，完接上一欄尾醫。續錄後轉下一篇鹽船沈覆。"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "images_in_scope": 2,
   "images_in_source_inventory": 2,
   "image_states": {
-    "initial-read": 2
+    "independent-read-and-source-adjudication": 2
   },
   "tei_p5_schema": "passed",
   "cff_1_2_0_schema": "passed",
   "frozen_body_comparison": "passed",
   "format_sha256": {
-    "transcription.json": "f8dfc87fe010c1bf6b4c2ef58c3a01d3853626ac3551311418186afa7e6061b2",
-    "transcription.txt": "2d308c67ca56d4665c48cbf530a6ef5245125e506755a1c7fc76d3635d59ecc2",
-    "transcription.tei.xml": "02d8d7b39fe4eb22509285bb3caf4ce429d81b11c89dfd20c8fb967ff85ef81e"
+    "transcription.json": "26ed65f938d94254850428ff9e515bb4a632c24dda9e53c1bad9c37e4d7e608a",
+    "transcription.txt": "f3f7aba1b5021bd3fbc5c8572cb566264773f74700aa9e844db899f2c9cdaca3",
+    "transcription.tei.xml": "95e42e9fe420e6eabfa523f421a9e1c45ece2d3b9db4eea711631789cf855052"
   }
 }

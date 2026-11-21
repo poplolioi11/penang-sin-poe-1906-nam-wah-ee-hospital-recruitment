@@ -4,11 +4,11 @@
 
 Two local reports in the Penang Sin Poe, dated 8 August and 20 September 1906, document the same recruitment examination at Nam Wah Ee Hospital in Penang. The first records 47 candidates and reports a plan to send sealed papers to Tung Wah Hospital in Hong Kong. The second names Guangren Shantang as the reported recipient and identifies two successful applicants. Read together, they provide evidence of recruitment and reported external assessment at a Chinese charitable hospital.
 
-## V0.1.0
+## V0.2.0
 
-兩篇各自在本埠欄中有完整起訖。8月8日一篇六直欄依原右至左接讀；9月20日一篇自左頁上排末兩欄接同頁中排頭三欄。兩人在後篇得錄用，實際評卷者僅有報文說法。 本版以 TXT、JSON、TEI XML 保存兩篇全篇十一欄、各期來源與形近字異讀。何啟龍既有研究已整理引用兩篇文字。AI 輔助轉錄。兩篇各經第二份獨立原圖讀稿和差異覆核。保留三處疑讀，尚未經人類全文雙校、專家審定或準確率量測。
+兩篇各自在本埠欄中有完整起訖。8月8日一篇六直欄依原右至左接讀；9月20日一篇自左頁上排末兩欄接同頁中排頭三欄。兩人在後篇得錄用，實際評卷者僅有報文說法。 本版以 TXT、JSON、TEI XML 保存兩篇全篇十一欄、各期來源與形近字異讀。何啟龍既有研究已整理引用兩篇文字。比對獨立原圖讀法後回圖裁定，採用 0 筆訂正，留存疑讀定位。
 
-TXT, JSON and TEI XML preserve all eleven columns across two complete articles and link to the applicable NUS issue scans. The second article spans two horizontal bands of one page. An earlier study of the interchange between Nam Wah Ee and Tung Wah hospitals quotes the reports in modernised typesetting. AI-assisted transcription. Each article was independently read from the original page image and discrepancies were reviewed against the scan. Three readings remain flagged. Full human double proofreading, specialist review and accuracy measurement remain pending.
+TXT, JSON and TEI XML preserve all eleven columns across two complete articles and link to the applicable NUS issue scans. The second article spans two horizontal bands of one page. An earlier study of the interchange between Nam Wah Ee and Tung Wah hospitals quotes the reports in modernised typesetting. An independent image reading was compared with the first transcription. Source-image adjudication adopted 0 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 
